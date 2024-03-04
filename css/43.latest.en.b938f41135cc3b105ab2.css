@@ -1,0 +1,10 @@
+._Zhco {
+  align-items: center;
+  border-radius: var(--x-primary-button-border-radius, var(--x-global-border-radius, var(--x-border-radius-base)));
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  outline: 1px solid #0000;
+  overflow: hidden;
+  -webkit-transform: translateZ(0)
+}
